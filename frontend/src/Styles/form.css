@@ -1,0 +1,56 @@
+/*Botones*/
+.item_combo_btn {
+    width: 60%;
+    margin: 1rem 1rem .5rem 1rem;
+}
+.form_combo_btn_content {
+    text-align: center;
+    padding: .5rem 0 0 0;
+}
+/*Logo PROIDEA en los formularios*/
+.form_logo_content {
+    text-align: center;
+}
+.form_logo_style {
+    width: 140px;
+    margin: .2rem;
+}
+/*Logo U*/
+.form_logou_style {
+    width:80%;
+    margin:1rem auto 0 auto;
+}
+
+/*Label he input*/
+.form_lbl_input_groupe {
+    margin: 1rem 0 1rem 0;
+}
+.form_block {
+    padding: .8rem;
+}
+
+/*Label y label*/
+.form_lbl_lbl_groupe {
+    padding: .2rem;
+    border-radius: .2rem;
+    margin: 1rem 0 0 0;
+}
+.form_block {
+    padding: .8rem;
+}
+
+/*Label description*/
+.InfoProject_Info_title {
+    font-weight: bold;
+}
+/*Textarea info projects*/
+.InfoProject_textArea {
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+}
+.btn-aug {
+    margin: 1.5rem;
+    width: 70%;
+    height: 3rem;
+    
+}

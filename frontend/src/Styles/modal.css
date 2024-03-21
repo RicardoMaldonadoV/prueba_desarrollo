@@ -1,0 +1,16 @@
+/*Contenido*/
+.modal-content {
+    padding: 3%;
+}
+.modal-body {
+    padding: 0;
+}
+.modal-recovery {
+    padding: 0 7% 2% 7%;
+}
+.info_group {
+    
+    background-color: #F2F2F2;
+    padding: 10px;
+    border-radius: .5rem;
+}

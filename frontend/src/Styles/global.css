@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body { 
+    min-height: 100vh;
+    background: linear-gradient(360deg, rgb(255, 255, 255) 5%, rgb(32, 33, 35) 70%);
+    background-size:100% 100%;     
+}
+.card {
+    box-shadow: -4px 4px 68px -10px rgba(0,0,0,0.75);
+    height: 100%;
+} 
+.card-title{
+    color: #606060;
+}
+.card-text{
+    color: #606060;
+    margin:1rem;
+}
+.login {
+    padding-top: 2rem;
+    height: 400px;
+    width: 600px;
+    margin: auto;
+}
+.text_welcome {
+    color: #ebebebc4;
+    text-align: center;
+    margin: 2rem auto;
+    padding-top: 2rem;
+}
+.tb-mant {
+    overflow: auto;
+    display: block;
+}
